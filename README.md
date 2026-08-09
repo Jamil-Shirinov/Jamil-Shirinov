@@ -198,23 +198,7 @@ An AI model focused on managing a company's Gmail inbox by giving detailed summa
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Jamil-Shirinov&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamil-Shirinov&layout=compact&hide_border=true&theme=transparent"
-/>
-
-</div>
-
-<br/>
+## Contributions History
 
 <div align="center">
 
