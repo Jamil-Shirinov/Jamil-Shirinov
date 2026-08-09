@@ -42,7 +42,7 @@ I like building things, understanding how they work, help the world with what I 
 
 <a href="mailto:jamil_shirinov@berkeley.edu">
   <img
-    src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"
+    src="https://img.shields.io/badge/EMAIL-CONTACT-2464C9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"
   />
 </a>
 
