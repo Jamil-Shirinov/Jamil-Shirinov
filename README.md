@@ -52,6 +52,9 @@ I like building things, understanding how they work, help the world with what I 
   />
 </a>
 
+<div>
+<img src="https://komarev.com/ghpvc/?username=Jamil-Shirinov&label=Profile%20views&color=3B7EA1&style=flat-square" alt="Profile Views"
+/>
 </div>
 
 <br/>
