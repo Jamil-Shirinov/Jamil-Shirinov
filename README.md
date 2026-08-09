@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/gh-pages/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/gh-pages/github-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/gh-pages/github-snake.svg"
+  />
 </picture>
