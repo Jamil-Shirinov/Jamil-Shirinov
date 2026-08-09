@@ -186,8 +186,6 @@ An AI model focused on managing a company's Gmail inbox by giving detailed summa
   src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&perline=8"
 />
 
-<br/>
-
 <h3>Development</h3>
 
 <img
