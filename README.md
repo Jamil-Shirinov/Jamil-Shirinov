@@ -13,8 +13,6 @@
 
 I'm a **Computer Science student at UC Berkeley** interested in software engineering, systems, applied AI, and CS education research.
 
-<br/>
-
 ## Currently
 
 <table>
@@ -51,6 +49,7 @@ I'm a **Computer Science student at UC Berkeley** interested in software enginee
 <b><a href="https://github.com/parsa-faraji/Huddle">Huddle</a> — A web app for students to easily find the best study partners and locations.</b>
 
 <b><a href="https://github.com/Jamil-Shirinov/yums-ai">Yums AI</a> — An AI model focused on managing a company's Gmail inbox by giving detailed summaries and suggesting actions.
+</div>
 
 <div align="center">
 <a href="https://github.com/Jamil-Shirinov?tab=repositories">
