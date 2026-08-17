@@ -41,7 +41,7 @@ I'm a **Computer Science student at UC Berkeley** interested in software enginee
 
 ## Selected proejcts
 
-<div style="text-align: left">
+<div align="left">
 <b><a href="https://github.com/Jamil-Shirinov/bPlanner">bPlanner</a> — A web app for CDSS students to manage their degree plans with additional help of an AI assistant.</b>
 
 <b><a href="https://github.com/aidenjlee4321/ZoneTune">ZoneTune</a> — Location-based music discovery project connecting geographic spaces with music experiences.</b>
