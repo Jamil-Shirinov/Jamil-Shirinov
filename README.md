@@ -37,7 +37,8 @@ I'm a **Computer Science student at UC Berkeley** interested in software enginee
 </tr>
 </table>
 
-<br>
+
+
 
 ## Selected proejcts
 
@@ -53,12 +54,12 @@ I'm a **Computer Science student at UC Berkeley** interested in software enginee
 <b><a href="https://github.com/Jamil-Shirinov/yums-ai">Yums AI</a> — An AI model focused on managing a company's Gmail inbox by giving detailed summaries and suggesting actions.
 </div>
 
+
 <div align="center">
 <a href="https://github.com/Jamil-Shirinov?tab=repositories">
   <b>View all repositories →</b>
 </a>
 
-</div>
 </div>
 
 <br/>
