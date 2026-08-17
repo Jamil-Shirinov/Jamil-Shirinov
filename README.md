@@ -9,67 +9,11 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:081B33,50:003262,100:3B7EA1&text=Jamil%20Shirinov&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Computer%20Science%20@%20UC%20Berkeley%20'29&descAlignY=57&descSize=20"
 />
 
-<h2>Software Engineering · Research · Applied AI</h2>
+## Hi there!
 
-<p>
-I like building things, understanding how they work, help the world with what I can, and occasionally turning small ideas into projects that become much larger than expected.
-</p>
+I'm a **Computer Science student at UC Berkeley** interested in software engineering, systems, applied AI, and CS education research.
 
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UNIVERSITY-UC%20BERKELEY-003262?style=for-the-badge&labelColor=1F1F1F"/>
-  <img src="https://img.shields.io/badge/MAJOR-COMPUTER%20SCIENCE-3B7EA1?style=for-the-badge&labelColor=1F1F1F"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-BERKELEY,%20CALIFORNIA-003262?style=for-the-badge&labelColor=1F1F1F&logo=googlemaps&logoColor=white"/>
-</p>
-
-<br/>
-
-<a href="https://jshirinov.com/">
-  <img
-    src="https://img.shields.io/badge/WEBSITE-VISIT-3B7EA1?style=for-the-badge&labelColor=1F1F1F"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/jamil-shirinov/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&labelColor=1F1F1F"
-  />
-</a>
-
-<a href="mailto:jamil_shirinov@berkeley.edu">
-  <img
-    src="https://img.shields.io/badge/EMAIL-CONTACT-2464C9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"
-  />
-</a>
-
-<a href="https://github.com/Jamil-Shirinov">
-  <img
-    src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F"
-  />
-</a>
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=Jamil-Shirinov&label=Profile%20views&color=3B7EA1&style=flat-square" alt="Profile Views"
-/>
-</div>
-
-<br/>
-
----
-
-## About Me
-
-I'm a **Computer Science student at UC Berkeley** interested in software engineering, cloud engineering, AI, and research.
-
-The largest part of what I enjoy comes from engineering and experimentation: I see a problem, devise a solution, and see how I can improve it even further to make sure it helps ass many people as it can.
-
-Outside of primary coursework, I'm involved in **computer science education research** and spend a probably unreasonable amount of time on personal side projects.
-
----
 
 ## Currently
 
@@ -95,89 +39,28 @@ Outside of primary coursework, I'm involved in **computer science education rese
 </tr>
 </table>
 
----
+<br/>
 
-## Selected Work
+## Selected proejcts
 
-<table>
-<tr>
+<div style="text-align: left">
+<b><a href="https://github.com/Jamil-Shirinov/bPlanner">bPlanner</a> — A web app for CDSS students to manage their degree plans with additional help of an AI assistant.</b>
 
-<td width="50%" valign="top">
+<b><a href="https://github.com/aidenjlee4321/ZoneTune">ZoneTune</a> — Location-based music discovery project connecting geographic spaces with music experiences.</b>
 
-<h3>CS Education Research</h3>
+<b><a href="https://github.com/parsa-faraji/Huddle">Huddle</a> — A web app for students to easily find the best study partners and locations.</b>
 
-Researching assessment and learning behavior within introductory computer science courses at UC Berkeley.
-
-<b>Focus:</b> data analysis, educational policy, student learning
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square?style=flat-square&logo=r&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>ZoneTune</h3>
-
-Location-based music discovery project connecting geographic spaces with music experiences.
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spotify%20API-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>Huddle</h3>
-
-A web app for students to easily find the best study partners and locations.
-
-<br>
-
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=Vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Yums AI</h3>
-
-An AI model focused on managing a company's Gmail inbox by giving detailed summaries and suggesting actions.
-
-<br>
-
-<img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-6D6D70?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=Google&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
+<b><a href="https://github.com/Jamil-Shirinov/yums-ai">Yums AI</a> — An AI model focused on managing a company's Gmail inbox by giving detailed summaries and suggesting actions.
 
 <div align="center">
-
 <a href="https://github.com/Jamil-Shirinov?tab=repositories">
   <b>View all repositories →</b>
 </a>
 
 </div>
+</div>
 
----
+<br/>
 
 ## Tools & Technologies
 
@@ -186,18 +69,18 @@ An AI model focused on managing a company's Gmail inbox by giving detailed summa
 <h3>Languages</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&perline=8"
+  src="https://skillicons.dev/icons?i=python,java,cpp,js&perline=8"
 />
 
 <h3>Development</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=react,nodejs,unity,git,github,firebase,vscode,idea&perline=8"
+  src="https://skillicons.dev/icons?i=react,nodejs,git,github,firebase,vscode,docker,idea&perline=8"
 />
 
 </div>
 
----
+<br/>
 
 ## Contributions History
 
@@ -222,42 +105,22 @@ An AI model focused on managing a company's Gmail inbox by giving detailed summa
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 <h2>Let's Connect</h2>
 
 <p>
-I'm always interested in meeting people working on interesting problems in
-<br/>
+
+I'm currently interested in meeting people working on interesting problems in
 <b>software engineering, research, databases, AI, and startups</b>
 </p>
 
-<br/>
+<p>
+  <a href="https://jshirinov.com"><img src="https://img.shields.io/badge/Website-Learn%20more-3B7EA1?style=flat-square&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jamil-shirinov/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logoColor=white" /></a>
+  <a href="mailto:jamil_shirinov@berkeley.edu"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-<a href="https://jshirinov.com">
-  <img
-    src="https://img.shields.io/badge/Wesbite-Learn%20more-3B7EA1?style=flat-square&logoColor=white"
-  />
 </a>
-
-<a href="https://www.linkedin.com/in/jamil-shirinov/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logoColor=white"
-  />
-</a>
-
-<a href="mailto:jamil_shirinov@berkeley.edu">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
-  />
-</a>
-
-<br>
-
-<sub>
-That's about it (for now)!
-</sub>
-
-</div>
