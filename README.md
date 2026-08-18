@@ -101,7 +101,7 @@ I'm a **Computer Science student at UC Berkeley** interested in software enginee
 
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/gh-pages/github-snake.svg"
+    src="https://raw.githubusercontent.com/Jamil-Shirinov/Jamil-Shirinov/gh-pages/github-snake.svg?v=1"
   />
 </picture>
 
