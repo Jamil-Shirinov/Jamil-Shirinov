@@ -40,7 +40,7 @@ I'm a **Computer Science student at UC Berkeley** interested in software enginee
 
 
 
-## Selected proejcts
+## Selected projects
 
 <div align="left">
 <b><a href="https://github.com/Jamil-Shirinov/bPlanner">bPlanner</a> — A web app for CDSS students to manage their degree plans with additional help of an AI assistant.</b>
